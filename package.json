@@ -1,6 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "budoux": "^0.6.3"
-  }
-}
